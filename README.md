@@ -1,2 +1,2 @@
-# Nagarro-Internship-Project-1
+# Nagarro-Internship-TWITTER-CLONE-SUMMER TRAINING PROJECT
 Twitter Clone Project
